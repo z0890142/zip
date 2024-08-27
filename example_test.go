@@ -11,7 +11,7 @@ import (
 	"log"
 	"os"
 
-	"zip"
+	"github.com/z0890142/zip"
 )
 
 func ExampleWriter() {

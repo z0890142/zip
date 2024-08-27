@@ -1,4 +1,4 @@
-module zip
+module github.com/z0890142/zip
 
 go 1.21.3
 
